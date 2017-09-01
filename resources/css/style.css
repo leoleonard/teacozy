@@ -33,9 +33,11 @@ nav {
 }
 
 
-.main {
+.container-main {
   display: block;
   text-align: center;
+  justify-content: center;
+
 }
 
 .container-mission {
@@ -57,8 +59,8 @@ nav {
 #featured {
   width: 1000px;
   display: block;
-  align-content: center;
   text-align: center;
+  margin: 0 auto;
 }
 
 .container-featuredtea {
